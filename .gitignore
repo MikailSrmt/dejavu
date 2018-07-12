@@ -1,2 +1,6 @@
 .envrc
-.idea/workspace.xml
+.idea/
+*.pyc
+*.iml
+.DS_Store
+
