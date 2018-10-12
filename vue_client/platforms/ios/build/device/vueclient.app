@@ -1,0 +1,1 @@
+/Users/mikail/Library/Developer/Xcode/DerivedData/vueclient-bppzkpppvavxntgyyfctxwmbkbaa/Build/Intermediates.noindex/ArchiveIntermediates/vueclient/InstallationBuildProductsLocation/Applications/vueclient.app

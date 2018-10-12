@@ -1,0 +1,1 @@
+/Users/mikail/Projects/FullStack/dejavu/vue_client/platforms/android/app/src/main/assets/app

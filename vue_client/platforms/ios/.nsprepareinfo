@@ -1,0 +1,19 @@
+{
+	"time": "Thu Oct 11 2018 23:41:23 GMT-0700 (PDT)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "75336349f168efc401dea49e7936be6f08c0ca39346e2d2d5147dc6e7bee5fa5",
+	"changesRequireBuildTime": "Thu Oct 11 2018 22:17:48 GMT-0700 (PDT)",
+	"appFilesHashes": {
+		"/Users/mikail/Projects/FullStack/dejavu/vue_client/app/app-root.xml": "900a386cb2d8abc9573413eb3aff45448dcd3608",
+		"/Users/mikail/Projects/FullStack/dejavu/vue_client/app/app.css": "9f923bab0aef1c56fddfa88d26c0898f38bc9a3d",
+		"/Users/mikail/Projects/FullStack/dejavu/vue_client/app/app.js": "b99b8400f3d679ef0e4da0ccd015592281d4eae0",
+		"/Users/mikail/Projects/FullStack/dejavu/vue_client/app/main-page.js": "215dece0eceb07b8b54a09f6e13a10c2bcb9ba38",
+		"/Users/mikail/Projects/FullStack/dejavu/vue_client/app/main-page.xml": "1a7b42ff745bdc1c3767b1e6f5a13e66b56fcd4d",
+		"/Users/mikail/Projects/FullStack/dejavu/vue_client/app/main-view-model.js": "f977a52b4fb31fe984415623f7597e914c24750d",
+		"/Users/mikail/Projects/FullStack/dejavu/vue_client/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/Users/mikail/Projects/FullStack/dejavu/vue_client/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848"
+	}
+}
